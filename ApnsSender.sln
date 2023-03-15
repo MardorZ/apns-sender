@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApnsSender", "ApnsSender\ApnsSender.csproj", "{941C01B6-1E89-44C4-8EA0-64E9DA86830F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941C01B6-1E89-44C4-8EA0-64E9DA86830F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941C01B6-1E89-44C4-8EA0-64E9DA86830F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941C01B6-1E89-44C4-8EA0-64E9DA86830F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941C01B6-1E89-44C4-8EA0-64E9DA86830F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
